@@ -1,0 +1,6 @@
+Minute min 60 S
+Heur H 60 min
+jour J 24 H
+mois M 30 J
+ans ans 12 M
+miliseconde mms 0.001 S

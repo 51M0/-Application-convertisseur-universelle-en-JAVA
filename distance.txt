@@ -1,0 +1,7 @@
+Kilometre km 1000 M
+centimetre cm 0.01 M
+milimetre mm 0.001 M
+inche in 2.54  cm
+feet ft 12 in
+Yard yd 0.9144 M
+Mile mil 1.6 km
